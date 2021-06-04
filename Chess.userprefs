@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Cal.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RegeNegru.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Matrice.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ClickInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ClickInstrumente.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Recruit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Nebun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Regina.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RecruitChoise.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Cal.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
